@@ -1,0 +1,1 @@
+postgre_pw = "6Cl=1ZiE3w3-nc^P*E!w]uj0^@="
